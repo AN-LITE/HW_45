@@ -4,9 +4,9 @@ import Card from "./component/Card";
 function App() {
   return (
    <>
-     <Card title={'title'} />
-     <Card text={'text'} />
-     <Card title={'title'} text={'text'} />
+     <Card title={'hi'} />
+     <Card text={'how are you?'} />
+     <Card title={'hi'} text={'how are you?'} />
    </>
   );
 }
