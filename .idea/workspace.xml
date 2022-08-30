@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a4cf78e-0103-4273-acec-d9a87c819d2c" name="Changes" comment="" />
+    <list default="true" id="3a4cf78e-0103-4273-acec-d9a87c819d2c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/component/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/component/Card.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +13,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2E5U2zK6cdjZoIOfJnGpMgQY6yZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Hillel/PRO/HW_45",
+    "last_opened_file_path": "D:/Hillel/PRO/HW_45 (React Создание компонента)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -35,6 +42,8 @@
       <option name="presentableId" value="Default" />
       <updated>1661884735505</updated>
       <workItem from="1661884747399" duration="99000" />
+      <workItem from="1661884851268" duration="233000" />
+      <workItem from="1661885903913" duration="1822000" />
     </task>
     <servers />
   </component>
